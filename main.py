@@ -1,8 +1,6 @@
 import csv
 from collections import Counter
 
-
-
 pupils = Counter()
 k = int(input())
 print('Top-', k,  ' stats ', sep = '')
